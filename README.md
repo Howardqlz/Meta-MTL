@@ -13,7 +13,7 @@ The code was tested with the following setup:
 
 
 ## Data
-Auxiliary tasks data can be found in aux_tasks, we provide one set of labels based on [ACAI embedding](https://github.com/brain-research/acai) for each dataset. For Cifar10 and Cifar100 the download of the datasets are automatic. For miniImageMet you need to  download the dataset ,then split it into 100 classes. We use 500/100 split for each class.
+Auxiliary tasks data can be found in [this folder](https://github.com/Howardqlz/Meta-MTL/tree/master/aux_tasks), we provide one set of labels based on [ACAI embedding](https://github.com/brain-research/acai) for each dataset. For Cifar10 and Cifar100 the download of the datasets are automatic. For miniImageMet you need to  download the dataset ,then split it into 100 classes. We use 500/100 split for each class.
 
 ## Usage
 Example:
