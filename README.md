@@ -1,5 +1,5 @@
 # Meta-MTL
-Code for AAAI20 oral paper "Constructing Multiple Tasks for Augmentation: Improving Neural Image Classification With K -means Features" by Tao Gui, Lizhi Qing, Qi Zhang, Jiacheng Ye, HangYan, Zichu Fei and Xuanjing Huang.
+Code for AAAI20 oral paper "[Constructing Multiple Tasks for Augmentation: Improving Neural Image Classification With K -means Features](https://arxiv.org/abs/1911.07518)" by Tao Gui, Lizhi Qing, Qi Zhang, Jiacheng Ye, HangYan, Zichu Fei and Xuanjing Huang.
 
 Cause the codes for different datasets are almost the same, but the auxiliary tasks data are quite large. So this code was used to produce part of the results(*CIFAR10、CIFAR100 and miniImageNet*) in the paper.
 
